@@ -10,7 +10,7 @@
 
 <style scoped>
 .navbar {
-  display: fle
+  display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 2rem 3rem;
