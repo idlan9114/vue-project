@@ -1,6 +1,6 @@
 <template>
   <nav class="navbar">
-    <div class="logo">C1 BOT</div>
+    <div class="logo">C1 OT</div>
     <div class="nav-links">
       <router-link to="/">Home</router-link>
       <router-link to="/character">Character</router-link>
@@ -10,7 +10,7 @@
 
 <style scoped>
 .navbar {
-  display: flex;
+  display: fle
   justify-content: space-between;
   align-items: center;
   padding: 2rem 3rem;
