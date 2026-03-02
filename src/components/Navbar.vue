@@ -1,6 +1,6 @@
 <template>
   <nav class="navbar">
-    <div class="logo">C1 OT</div>
+    <div class="logo">C1 BOT</div>
     <div class="nav-links">
       <router-link to="/">Home</router-link>
       <router-link to="/character">Character</router-link>
